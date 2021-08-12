@@ -6,14 +6,7 @@
 - 🔭 Currently working on improving my skills as full stack developer
 - 👯 Looking to collaborate on open-source project
 - 💬 Ask me about anything interesting, i may not know the answer but i'll sure help you go after
-- 📫 How to reach me: you can check my 
-<a href="https://www.linkedin.com/in/mateusfonseca/">
-linkedin
-</a>
-or just send me an 
-<a href="mateusrfon@gmail.com">
-e-mail
-</a>.
+- 📫 How to reach me: you can check my <a href="https://www.linkedin.com/in/mateusfonseca/">linkedin</a> or just send me an <a href="mateusrfon@gmail.com">e-mail</a>.
 - ⚡ Fun fact: I have a 3d printer that i call Frank (short for Frankstein) cause of its unique and dubious design
 
 <br />
