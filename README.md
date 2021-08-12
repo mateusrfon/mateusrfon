@@ -12,7 +12,6 @@
 <br />
 
 ## Languages and Tools:
-<div style="display: flex; flex-direction: column">
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 20px">
 <img style="margin-right: 3px; margin-bottom: 3px" alt="Visual Studio Code" title="#Visual Studio Code" width="45px" src="./assets/visual-studio-code.svg" />
 
@@ -60,4 +59,3 @@
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrfon&theme=monokai&layout=compact">
 </a>
 </details>
-</div>
