@@ -12,7 +12,7 @@
 <br />
 
 ## Languages and Tools:
-
+<div style="display: flex; flex-wrap: wrap">
 <img align="left" style="margin-right: 3px; margin-bottom: 3px" alt="Visual Studio Code" title="#Visual Studio Code" width="45px" src="./assets/visual-studio-code.svg" />
 
 <img align="left" style="margin-right: 3px; margin-bottom: 3px" alt="HTML5" title="#HTML5" width="30px" src="./assets/html5.svg" />
@@ -44,9 +44,8 @@
 
 <img align="left" style="margin-right: 3px; margin-bottom: 3px" alt="Github" title="#Github" width="45px" src="./assets/github.svg" />
 <!--Github Icon by Roundicons .com on Iconscout-->
+</div>
 
-<br />
-<br />
 <br />
 
 <details>
