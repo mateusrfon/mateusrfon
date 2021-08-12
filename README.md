@@ -48,6 +48,7 @@
 
 <br />
 
+<div>
 <details>
   <summary> ⚡  GitHub Stats</summary>
 <a  href="https://github.com/mateusrfon">
@@ -61,3 +62,4 @@
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrfon&theme=monokai&layout=compact">
 </a>
 </details>
+</div>
