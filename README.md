@@ -3,7 +3,7 @@
 
 <br />
 
-- 🔭 Currently working on improving my skills as a <s>full stack<s> back-end developer
+- 🔭 Currently working on improving my skills as a <s>full stack</s> back-end developer
 - 📫 How to reach me: you can check my <a href="https://www.linkedin.com/in/mateusfonseca/">linkedin</a> or just send me an <a href="mailto:mateusrfon@gmail.com">e-mail</a>.
 - ⚡ Fun fact: I have a 3d printer that i call Frank (short for Frankstein) cause of its unique design
 
