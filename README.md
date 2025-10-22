@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on improving my skills as a full stack developer
 - 📫 How to reach me: you can check my <a href="https://www.linkedin.com/in/mateusfonseca/">linkedin</a> or just send me an <a href="mailto:mateusrfon@gmail.com">e-mail</a>.
-- ⚡ Fun fact: ~I have a 3d printer that i call Frank (short for Frankstein) cause of its unique design~ RIP
+- ⚡ Fun fact: ~I have a 3d printer that I built and call it Frank (short for Frankstein) cause of its unique design~ RIP
 
 <br />
 
